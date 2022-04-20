@@ -39,7 +39,7 @@ Skills:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sweta-Raj31&show_icons=true&count_private=true) 
 
 ## Graph✨
-![snake gif](https://github.com/Sweta-Raj31/Sweta-Raj31/blob/output/github-contribution-grid-snake.gif)
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sweta-Raj31)  
 
