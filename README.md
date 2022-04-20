@@ -1,25 +1,29 @@
 ### Hi there 👋,<Sweta Raj🤗 This side./>
 #### Coding enthusiast & Web Developer Noobi.
-✨""Unlock the guidance, tools, and resources you need to design your best life – then live it🤗. Every. Single. Day🤩.""
+Hi there! l am presently a 2nd year BTECH IT student in ITGGV.
+📌l am a learning programmer who loves to deal with Data Structures and Algorithms, l always like to work with people around me indulged in different projects.
+📌Recently I am learning DSA and web Development and highly interested in that.
+📌Coding is something I am consistently learning and growing in. I love to code in C++ but I am also comfortable with C and python.
+📌I believe in practicality and love to participate in hackathons that push me out of my comfort zone, I have participated on several hackathons.
+📌I am very curious and love to learn new technologies .
 
 <img src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==" height="400" width="550">
 
 
-✨I am currently pursuing my Btech degree in Information Technology from GGV. I am interested in web development and Programming(in the C++ language). And highly interested in programming. Presently I am learning DSA and JAVASCRIPT.
 
-Skills:⭐
-## C++/ C / JS / HTML / CSS / BOOTSTRAP / DSA
+Skills:
+## C++/ C / Python/ HTML / CSS / BOOTSTRAP /JS/ DSA
 
 
-- 🔭 I’m currently working on Front-end web development 
-- 🌱 I’m currently learning DSA and JAVASCRIPT. 
+- 🔭 I’m currently working on Web Development 
+- 🌱 I’m currently learning DSA . 
 - 👯 I’m looking to collaborate on Web Development. 
-- 📫 How to reach me: js.saini267@gmail.com 
+- 📫 How to reach me: rajsweta558@gmail.com
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I can see cartoons whole day😁 
+- ⚡ Fun fact: I can see sleep whole day😁 
 
  ## Connect with me: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sweta-Raj31)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sweta-raj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SwetaRa88357363)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@saini-js)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='github' height='40'>](https://www.codechef.com/users/sweta312002) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='github' height='40'>](https://codeforces.com/profile/Sweta312002) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='github' height='40'>](https://leetcode.com/sweta312002/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sweta-Raj31)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sweta-raj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SwetaRa88357363)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='github' height='40'>](https://www.codechef.com/users/sweta312002) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='github' height='40'>](https://codeforces.com/profile/Sweta312002) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='github' height='40'>](https://leetcode.com/sweta312002/)
 
 
 
