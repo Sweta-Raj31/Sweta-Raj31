@@ -18,7 +18,7 @@ Skills:
 - 👯 I’m looking to collaborate on Web Development. 
 - 📫 How to reach me: rajsweta558@gmail.com
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I can see sleep whole day😁 
+- ⚡ Fun fact: I can sleep whole day😁 
 
  ## Connect with me: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sweta-Raj31)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sweta-raj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SwetaRa88357363)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='github' height='40'>](https://www.codechef.com/users/sweta312002) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='github' height='40'>](https://codeforces.com/profile/Sweta312002) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='github' height='40'>](https://leetcode.com/sweta312002/)
