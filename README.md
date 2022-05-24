@@ -110,9 +110,9 @@ My acumen self is divinely inspired with the ideology to edify myself especially
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sweta-Raj31)   -->
 
-![GitHub metrics](https://metrics.lecoq.io/Sweta-Raj31)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/Sweta-Raj31)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sweta-Raj31)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sweta-Raj31)   -->
 
 ![Profile views](https://gpvc.arturio.dev/Sweta-Raj31)
 
