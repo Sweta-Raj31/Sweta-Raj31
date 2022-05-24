@@ -105,7 +105,7 @@ My acumen self is divinely inspired with the ideology to edify myself especially
 ## Graph✨
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sweta-Raj31)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sweta-Raj31)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/Sweta-Raj31)  
 
