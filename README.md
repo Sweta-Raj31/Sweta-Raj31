@@ -53,9 +53,9 @@ Skills:
    
 #### |Web Devloper| Competitive programmer| Graphic Designer| Coder| Student| 
  
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p> 
+<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=amruthasri852&label=Profile%20views&color=0e75b6&style=flat" alt="amruthasri852" /> </p> 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=amruthasri852&show_icons=true&locale=en"> 
- 
+  -->
 
 -    
 - 🌱 I’m currently learning DSA . 
@@ -105,7 +105,7 @@ My acumen self is divinely inspired with the ideology to edify myself especially
 ## Graph✨
 
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sweta-Raj31)   -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sweta-Raj31)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Sweta-Raj31)  
 
