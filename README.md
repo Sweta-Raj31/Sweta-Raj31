@@ -1,5 +1,5 @@
 <!-- 
-#### Cmpetitive Programming Enthusiast & Web Developer Noobi.
+
 Hi there! l am presently a 2nd year BTECH IT student in ITGGV.l am a learning programmer who loves to deal with Data Structures and Algorithms, l always like to work with people around me indulged in different projects.Recently I am learning DSA and web Development and highly interested in that.
 Coding is something I am consistently learning and growing in. I love to code in C++ but I am also comfortable with C and python.
 I believe in practicality and love to participate in hackathons that push me out of my comfort zone, I have participated on several hackathons.
