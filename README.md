@@ -46,15 +46,6 @@ My acumen self is divinely inspired with the ideology to edify myself especially
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sweta-Raj31&show_icons=true&count_private=true) 
 
-## Graph✨
-
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sweta-Raj31)   -->
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/Sweta-Raj31)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sweta-Raj31)   -->
-
 ![Profile views](https://gpvc.arturio.dev/Sweta-Raj31)
 
 
