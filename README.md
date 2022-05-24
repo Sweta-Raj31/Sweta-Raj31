@@ -5,7 +5,7 @@ Coding is something I am consistently learning and growing in. I love to code in
 I believe in practicality and love to participate in hackathons that push me out of my comfort zone, I have participated on several hackathons.
 I am very curious and love to learn new technologies .
 
-<img src="https://thumbs.dreamstime.com/b/architect-cartoon-character-young-long-haired-woman-creating-construction-projects-technical-drawings-computer-software-197683251.jpg" height="400" width="550">
+
 
 
 
