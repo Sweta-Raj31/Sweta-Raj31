@@ -85,7 +85,7 @@ My acumen self is divinely inspired with the ideology to edify myself especially
 <h2 align="left">🏆Trophies:</h2>
 (I'm new alert*)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sweta-Raj31" alt="Sweta-Raj31" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sweta-Raj31" alt="Sweta-Raj31" /></a> </p> -->
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/81810889/137156378-42e5156d-345a-4157-9c53-b43d99d7829a.gif" align="center" height="400" width="850" > </p>
 
