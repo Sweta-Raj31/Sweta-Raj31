@@ -17,10 +17,10 @@
 
 ## 👩‍💻 EXPERIENCES
 
-### ➤ SWE INTERN | MICROSOFT 
-**April 2023 - June 2023** | **Hyderabad** | [**LINK**](https://drive.google.com/file/d/1kc0mprH2rz9eG6bEzOTiPJWZ8cHxkz3R/view) 
-- Developed MSIT Holidays Card on APP Ecosystem, which can be ported to different backends with different schemas by making minimal changes in the configuration.
-- Tech Stack: JavaScript, TypeScript, React, SPFx
+### ➤ BACKEND INTERN | AIvolved Technologies 
+**April 2023 - Sept 2023** | **Bengaluru** | 
+- Developed Paytm payment Gateway, which can be used to different users with different schemas by making minimal changes in the configuration.
+- Tech Stack: Python, Django, Dajngo-Rest, SQL
 
 ### ➤ OUTREACHY INTERN | Mboalab 
 **May 2022 - August 2022** | **Remote** | [**LINK**](https://drive.google.com/file/d/16sPNQoffTnmXtGpTpw6AOEdSgzKp8_ui/view) | [**GitHub Link**](https://github.com/nataliyah123/TYPHOID_SCREENER/tree/master)
@@ -111,10 +111,10 @@
 ## 📈 CONTRIBUTION STATS 
 
 
- <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Shweta2024&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
- <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta2024&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+ <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Sweta-Raj31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+ <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweta-Raj31&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
  <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta2024&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Beautiful Edit"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweta-Raj31&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Beautiful Edit"/>
 </div>
 
  <br>
@@ -125,8 +125,9 @@
 
 ## 💻 CODING PROFILES
 
-<a href="https://leetcode.com/shweta_bhagat/"><img src="https://img.shields.io/badge/leetcode-D14836.svg?style=for-the-badge&logo=leetcode&logoColor=white"></img></a>
-<a href="https://auth.geeksforgeeks.org/user/bhagatshweta0216/profile"><img src="https://img.shields.io/badge/geeksforgeeks-%D14836.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></img></a>
+<a href="https://leetcode.com/sweta312002/"><img src="https://img.shields.io/badge/leetcode-D14836.svg?style=for-the-badge&logo=leetcode&logoColor=white"></img></a>
+<a href="https://auth.geeksforgeeks.org/user/rajsweta558"><img src="https://img.shields.io/badge/geeksforgeeks-%D14836.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></img></a>
+
 
 <br>
 
@@ -134,4 +135,4 @@
 
 ## 😄 Connect with me 
 
-<a href="https://www.linkedin.com/in/shweta-bhagat-5a3969200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>  <a href="https://twitter.com/Shweta_Bhagat_"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"></img></a>  <a href="mailto:bhagatshweta0216@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> <a href="https://medium.com/@bhagatshweta0216"><img src="https://img.shields.io/badge/Medium-D14836?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/sweta-raj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>  <a href="https://twitter.com/SwetaRa88357363"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"></img></a>  <a href="rajsweta558@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> <a href="https://medium.com/@rajsweta558"><img src="https://img.shields.io/badge/Medium-D14836?style=for-the-badge&logo=medium&logoColor=white"></img></a>
