@@ -50,20 +50,20 @@
  
 ## 🥇 ACHIEVEMENTS
 
-- Selected for Amazon ML Summer School 2022 out of 25K+ participants. [**Link**](https://drive.google.com/file/d/12CWX9C2Ayrx5zLA0pUbi7JjYp_JWczwY/view)
+- Won the first prize in Smart India Internal Hackathon.. [**Link**](https://drive.google.com/file/d/12CWX9C2Ayrx5zLA0pUbi7JjYp_JWczwY/view)
 
-- Selected for Microsoft Engage 2022 out of 25K+ participants.
+- Participated in Hashcode 2022 and secured a rank under 5k.
 
-- Top 99 Contributor in GirlScript Summer of Code 2022. [**Link**](https://drive.google.com/file/d/1L-vgukRAtF-hl2SRc9lUBDNZep5X5m0y/view)
+- • Secured 2nd place in Coding Competition organized by GirlScript Foundation in 2022.. [**Link**](https://drive.google.com/file/d/1L-vgukRAtF-hl2SRc9lUBDNZep5X5m0y/view)
 
-- Top 9 Contributor in HackClub Rait Summer Of Code'22 .[**Link**](https://drive.google.com/file/d/11rPrsoCkaZ-lr5Jz7e0VOQlS8mB-io_1/view)
+- Qualified Round A Global Programming Competition,SnackDown. .[**Link**](https://drive.google.com/file/d/11rPrsoCkaZ-lr5Jz7e0VOQlS8mB-io_1/view)
 
 - Solved 300+ problems on LeetCode and 100+ problems on GeeksForGeeks.
 
  <br> 
  
  <!-------------------------------------------------------------------------PROJECTS-------------------------------------------------------------------------------->
- 
+<! 
 ## ⭐ PROJECTS
 
 ### 👩‍💻 MAJOR PROJECTS
@@ -93,22 +93,22 @@
  
  <!----------------------------------------------------OPEN SOURCE CONTRIBUTIONS------------------------------------------------------------------------------->
  
-## 👩‍💻 OPEN SOURCE CONTRIBUTIONS
+//## 👩‍💻 OPEN SOURCE CONTRIBUTIONS
 
-|S.No.|Open Source Program | Project |  Contribution Link|
-|--------|----|----|----|
-| 1 | Outreachy Internship - Mboalab | Typhoid Screener(working on it) | [Project link](https://github.com/nataliyah123/TYPHOID_SCREENER/tree/master) |
-| 2 | Outreachy Contribution Phase 2022 | Mboalab_Outreachy-May-Aug-2022 | [2 Pull Requests](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/May-August-Contributions/Shweta%20Bhagat) |
-| 3 | GirlScript Summer of Code 2022 | medi-Care | [Breast Cancer Prediction](https://github.com/mohit200008/medi-Care/tree/master/BreastCancerPrediction) |
-| 4 | GirlScript Summer of Code 2022 | LearnCPP |  [9 Pull Requests](https://github.com/Lakhankumawat/LearnCPP/commits?author=Shweta2024) |
-| 5 | HackClub Rait Summer Of Code 2022 | LeetCode-Grind | [Link](https://drive.google.com/file/d/11rPrsoCkaZ-lr5Jz7e0VOQlS8mB-io_1/view) |
-| 6 | Hacktober Fest 2022 | LeetCode-Grind | |
-| 7 | KWOC'2022 | JavaScript-Projects  | I was the Mentor, [Link](https://github.com/Shweta2024/JavaScript-Projects) |
+//|S.No.|Open Source Program | Project |  Contribution Link|
+//|--------|----|----|----|
+//| 1 | Outreachy Internship - Mboalab | Typhoid Screener(working on it) | [Project link](https://github.com/nataliyah123/TYPHOID_SCREENER/tree/master) |
+//| 2 | Outreachy Contribution Phase 2022 | Mboalab_Outreachy-May-Aug-2022 | [2 Pull Requests](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/May-August-Contributions/Shweta%20Bhagat) |
+//| 3 | GirlScript Summer of Code 2022 | medi-Care | [Breast Cancer Prediction](https://github.com/mohit200008/medi-Care/tree/master/BreastCancerPrediction) |
+//| 4 | GirlScript Summer of Code 2022 | LearnCPP |  [9 Pull Requests](https://github.com/Lakhankumawat/LearnCPP/commits?author=Shweta2024) |
+//| 5 | HackClub Rait Summer Of Code 2022 | LeetCode-Grind | [Link](https://drive.google.com/file/d/11rPrsoCkaZ-lr5Jz7e0VOQlS8mB-io_1/view) |
+//| 6 | Hacktober Fest 2022 | LeetCode-Grind | |
+//| 7 | KWOC'2022 | JavaScript-Projects  | I was the Mentor, [Link](https://github.com/Shweta2024/JavaScript-Projects) |
 
-<br>
+//<br>
 
 <!--------------------------------------------------------------CONTRIBUTION STATS ------------------------------------------------------------------------------>
-
+->
 
 ## 📈 CONTRIBUTION STATS 
 
