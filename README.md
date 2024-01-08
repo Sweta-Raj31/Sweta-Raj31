@@ -1,52 +1,137 @@
-<h1 align="left">Hi, I'm Sweta Raj <img src="https://media.gifs.nl/finding-dory-gifs-buGIgk.gif" align="center" height="65" width="110" >  </h1>
-   
-#### Web Devloper| Competitive programmer| Graphic Designer| Coder| Student| 
+<!--------------------------------------------------------------------------ABOUT-------------------------------------------------------------------------------->
+<h1 align="left">Hello! I'm Sweta Raj </h1> 
+
+- I’m  a 4th year undergraduate pursuing a Bachelor of Technology in Information Technology.
+- I’m looking to collaborate on Open Source Projects.
+- I'm interested in Problem Solving.
+- I'm a Full stack Developer.
+- Actively looking for **Software Engineering Intern role(Backend)**.
+
+ <br>
+ <img src="https://komarev.com/ghpvc/?username=Sweta-Raj31&color=blue" />
+
+
+ <br>
+
+<!------------------------------------------------------------------------EXPERIENCE-------------------------------------------------------------------------------->
+
+## 👩‍💻 EXPERIENCES
+
+### ➤ SWE INTERN | MICROSOFT 
+**April 2023 - June 2023** | **Hyderabad** | [**LINK**](https://drive.google.com/file/d/1kc0mprH2rz9eG6bEzOTiPJWZ8cHxkz3R/view) 
+- Developed MSIT Holidays Card on APP Ecosystem, which can be ported to different backends with different schemas by making minimal changes in the configuration.
+- Tech Stack: JavaScript, TypeScript, React, SPFx
+
+### ➤ OUTREACHY INTERN | Mboalab 
+**May 2022 - August 2022** | **Remote** | [**LINK**](https://drive.google.com/file/d/16sPNQoffTnmXtGpTpw6AOEdSgzKp8_ui/view) | [**GitHub Link**](https://github.com/nataliyah123/TYPHOID_SCREENER/tree/master)
+- Worked as an intern with Mboalab, on the project "Improve diagnostics of typhoid through Open Science: An Artificial Intelligence-based technique".
+- Created an appealing User Interface for the Android Application using Python, Kivy, and Kivymd.
+
+### ➤ MICROSOFT ENGAGE 2022 | Mentee
+**May 2022** | **Remote** | [**LINK**](https://github.com/Shweta2024/cars-engage-2022)
+- Developed a web application that the Automotive Industry could use to harness data to make informed decisions.
+- Demonstrated the use of Data Analytics in identifying: Customer segments, Most popular car specification combinations (engine type, fuel, mileage, etc).
+
+### ➤ GIRLSCRIPT SUMMER OF CODE | Contributor
+**March 2022- May 2022** | **Remote** | [**Link**](https://drive.google.com/file/d/1L-vgukRAtF-hl2SRc9lUBDNZep5X5m0y/view)
+- My Rank:- 99/875 
+- Total Accepted Pull Requests: 10
+- Total Points: 220
+
+1. Medi-care: In this project, I used the Wisconsin Breast Cancer Dataset and predicted if a person is having Breast Cancer.I did Exploratory Data Analysis followed by splitting the dataset into test and train and then implementing the two models: Logistic Regression and Decision Tree Classifier. 
+
+2. LearnCPP: In this project, I have added solutions to some of the famous problems of Dynamic Programming and Trees Data Structure.The aim of this project was to provide one step solution for C++ beginners and cp enthusiasts.
+
+ <br>
  
-
-
-- 🌱 I’m currently learning DSA . 
-- 👯 I’m looking to collaborate on Web Development. 
-- 📫 How to reach me: rajsweta558@gmail.com
-- 😄 Pronouns: she/her 
-- ⚡ Fun fact: I can sleep whole day😁 
-    
-
+ <!------------------------------------------------------------------------ACHIEVEMENTS----------------------------------------------------------------------------->
  
-<h2 align="left"> 🔴🔺🟥 Connect with me: </h2>
+## 🥇 ACHIEVEMENTS
 
+- Selected for Amazon ML Summer School 2022 out of 25K+ participants. [**Link**](https://drive.google.com/file/d/12CWX9C2Ayrx5zLA0pUbi7JjYp_JWczwY/view)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sweta-Raj31)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sweta-raj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SwetaRa88357363)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='github' height='40'>](https://www.codechef.com/users/sweta312002) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='github' height='40'>](https://codeforces.com/profile/Sweta312002) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='github' height='40'>](https://leetcode.com/sweta312002/)
+- Selected for Microsoft Engage 2022 out of 25K+ participants.
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- Top 99 Contributor in GirlScript Summer of Code 2022. [**Link**](https://drive.google.com/file/d/1L-vgukRAtF-hl2SRc9lUBDNZep5X5m0y/view)
 
+- Top 9 Contributor in HackClub Rait Summer Of Code'22 .[**Link**](https://drive.google.com/file/d/11rPrsoCkaZ-lr5Jz7e0VOQlS8mB-io_1/view)
+
+- Solved 300+ problems on LeetCode and 100+ problems on GeeksForGeeks.
+
+ <br> 
  
-<h2 align="center"> 🥳Follow me to know the most authentic version of me!</h2>
-
-<h2 align="left">✨My Personal Self:</h2>             
-Radiate Positivity!🤩😄 Ready to tackle challenging problems 🐱‍👤and helping other fellow coders🤗. Active student coder👩‍💻 and seeking ideas to explore.🚴‍♀️
+ <!-------------------------------------------------------------------------PROJECTS-------------------------------------------------------------------------------->
  
-<h2 align="left">🔮How I Work:</h2>
-My acumen self is divinely inspired with the ideology to edify myself especially diverse elements of a larger whole. Your perspicacious sense may take you to conundrum situations and many obfuscate people. Sometimes I am generally fatuous. Checklists are my despotic favorite ✅
+## ⭐ PROJECTS
 
+### 👩‍💻 MAJOR PROJECTS
 
+|S.No.|Project Name|Technologies Used | Live App | GitHub Link |
+|--------|----|----|----| ---- |
+| 1 | Chat Application | HTML, CSS, JavaScript, jQuery, Socket.io, Nodejs, Express, and EJS | [app](https://chatapp-b8jx.onrender.com/) | [link](https://github.com/Shweta2024/Chat-Application) |
+| 2 | Write-On | HTML, CSS, JavaScript, Nodejs, Express, MongoDB and EJS | [app](https://write-on.onrender.com/) | [link](https://github.com/Shweta2024/Write-On) | 
+| 3 | Cars : Data Analysis | OOPs, Python, Flask and Machine Learning  |  | [link](https://github.com/Shweta2024/cars-engage-2022) | 
+| 4 | Secrets-App | oAuth2.0, Express, Nodejs, HTML and CSS | not yet deployed...  | [link](https://github.com/Shweta2024/Secrets-App)|
+| 5 | Weather-App | used APIs, Express, Nodejs, HTML, CSS | not yet deployed... |   |
+
+<br>
+
+### 👩‍💻 MINI PROJECTS
+
+|S.No.|Project Name|Technologies Used | GitHub Link |
+|--------|----|----|----|
+| 1|ToDo List App| HTML, CSS, JavaScript, Nodejs, Express, MongoDB and EJS| [Live App](https://todo-list-j8sm.onrender.com/) and [GitHub link](https://github.com/Shweta2024/ToDo-List)|
+| 2 | Cartoonify | Python and OpenCV | [link](https://github.com/Shweta2024/Cartoonify-Image-Using-OpenCV) |
+| 3 | Heart Disease Prediction | Python and Machine Learning |  [link](https://github.com/Shweta2024/HEART-DISEASE-PREDICTION-) |
+| 4 | Iris Dataset Classification | Python and Machine Learning   | [link](https://github.com/Shweta2024/IRIS-DATASET-CLASSIFICATION) |
+| 5 | Marks Predictor |Python and Machine Learning |  [link](https://github.com/Shweta2024/The-Sparks-Foundation-Tasks/blob/main/Task-1_Prediction_using_Supervised_ML.ipynb) |
+| 6 | Fake News Detection | Python |  [link](https://github.com/Shweta2024/FAKE_NEWS_DETECTION) |
+
+ <br>
  
-<h2 align="left">🏆Trophies:</h2>
-(I'm new alert*)
+ <!----------------------------------------------------OPEN SOURCE CONTRIBUTIONS------------------------------------------------------------------------------->
+ 
+## 👩‍💻 OPEN SOURCE CONTRIBUTIONS
+
+|S.No.|Open Source Program | Project |  Contribution Link|
+|--------|----|----|----|
+| 1 | Outreachy Internship - Mboalab | Typhoid Screener(working on it) | [Project link](https://github.com/nataliyah123/TYPHOID_SCREENER/tree/master) |
+| 2 | Outreachy Contribution Phase 2022 | Mboalab_Outreachy-May-Aug-2022 | [2 Pull Requests](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/May-August-Contributions/Shweta%20Bhagat) |
+| 3 | GirlScript Summer of Code 2022 | medi-Care | [Breast Cancer Prediction](https://github.com/mohit200008/medi-Care/tree/master/BreastCancerPrediction) |
+| 4 | GirlScript Summer of Code 2022 | LearnCPP |  [9 Pull Requests](https://github.com/Lakhankumawat/LearnCPP/commits?author=Shweta2024) |
+| 5 | HackClub Rait Summer Of Code 2022 | LeetCode-Grind | [Link](https://drive.google.com/file/d/11rPrsoCkaZ-lr5Jz7e0VOQlS8mB-io_1/view) |
+| 6 | Hacktober Fest 2022 | LeetCode-Grind | |
+| 7 | KWOC'2022 | JavaScript-Projects  | I was the Mentor, [Link](https://github.com/Shweta2024/JavaScript-Projects) |
+
+<br>
+
+<!--------------------------------------------------------------CONTRIBUTION STATS ------------------------------------------------------------------------------>
 
 
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/81810889/137156378-42e5156d-345a-4157-9c53-b43d99d7829a.gif" align="center" height="400" width="850" > </p>
-
+## 📈 CONTRIBUTION STATS 
 
 
-## [![trophy](https://github-profile-trophy.vercel.app/?username=Sweta-Raj31)](https://github.com/ryo-ma/github-profile-trophy)
+ <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Shweta2024&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+ <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta2024&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+ <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta2024&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Beautiful Edit"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweta-Raj31)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sweta-Raj31&show_icons=true&count_private=true) 
-
-![Profile views](https://gpvc.arturio.dev/Sweta-Raj31)
+ <br>
 
 
+<!--------------------------------------------------------------------CODING PROFILES---------------------------------------------------------------------------->
 
+
+## 💻 CODING PROFILES
+
+<a href="https://leetcode.com/shweta_bhagat/"><img src="https://img.shields.io/badge/leetcode-D14836.svg?style=for-the-badge&logo=leetcode&logoColor=white"></img></a>
+<a href="https://auth.geeksforgeeks.org/user/bhagatshweta0216/profile"><img src="https://img.shields.io/badge/geeksforgeeks-%D14836.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></img></a>
+
+<br>
+
+<!--------------------------------------------------------------------------Social Handles----------------------------------------------------------------------->
+
+## 😄 Connect with me 
+
+<a href="https://www.linkedin.com/in/shweta-bhagat-5a3969200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>  <a href="https://twitter.com/Shweta_Bhagat_"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"></img></a>  <a href="mailto:bhagatshweta0216@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> <a href="https://medium.com/@bhagatshweta0216"><img src="https://img.shields.io/badge/Medium-D14836?style=for-the-badge&logo=medium&logoColor=white"></img></a>
