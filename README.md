@@ -50,65 +50,23 @@
  
 ## 🥇 ACHIEVEMENTS
 
-- Won the first prize in Smart India Internal Hackathon.. [**Link**](https://drive.google.com/file/d/12CWX9C2Ayrx5zLA0pUbi7JjYp_JWczwY/view)
+- Won the first prize in Smart India Internal Hackathon.. 
 
 - Participated in Hashcode 2022 and secured a rank under 5k.
 
-- • Secured 2nd place in Coding Competition organized by GirlScript Foundation in 2022.. [**Link**](https://drive.google.com/file/d/1L-vgukRAtF-hl2SRc9lUBDNZep5X5m0y/view)
-
-- Qualified Round A Global Programming Competition,SnackDown. .[**Link**](https://drive.google.com/file/d/11rPrsoCkaZ-lr5Jz7e0VOQlS8mB-io_1/view)
+- Secured 2nd place in Coding Competition organized by GirlScript Foundation in 2022.
+   
+- Qualified Round A Global Programming Competition,SnackDown. 
 
 - Solved 300+ problems on LeetCode and 100+ problems on GeeksForGeeks.
 
  <br> 
  
  <!-------------------------------------------------------------------------PROJECTS-------------------------------------------------------------------------------->
-<! 
-## ⭐ PROJECTS
 
-### 👩‍💻 MAJOR PROJECTS
-
-|S.No.|Project Name|Technologies Used | Live App | GitHub Link |
-|--------|----|----|----| ---- |
-| 1 | Chat Application | HTML, CSS, JavaScript, jQuery, Socket.io, Nodejs, Express, and EJS | [app](https://chatapp-b8jx.onrender.com/) | [link](https://github.com/Shweta2024/Chat-Application) |
-| 2 | Write-On | HTML, CSS, JavaScript, Nodejs, Express, MongoDB and EJS | [app](https://write-on.onrender.com/) | [link](https://github.com/Shweta2024/Write-On) | 
-| 3 | Cars : Data Analysis | OOPs, Python, Flask and Machine Learning  |  | [link](https://github.com/Shweta2024/cars-engage-2022) | 
-| 4 | Secrets-App | oAuth2.0, Express, Nodejs, HTML and CSS | not yet deployed...  | [link](https://github.com/Shweta2024/Secrets-App)|
-| 5 | Weather-App | used APIs, Express, Nodejs, HTML, CSS | not yet deployed... |   |
-
-<br>
-
-### 👩‍💻 MINI PROJECTS
-
-|S.No.|Project Name|Technologies Used | GitHub Link |
-|--------|----|----|----|
-| 1|ToDo List App| HTML, CSS, JavaScript, Nodejs, Express, MongoDB and EJS| [Live App](https://todo-list-j8sm.onrender.com/) and [GitHub link](https://github.com/Shweta2024/ToDo-List)|
-| 2 | Cartoonify | Python and OpenCV | [link](https://github.com/Shweta2024/Cartoonify-Image-Using-OpenCV) |
-| 3 | Heart Disease Prediction | Python and Machine Learning |  [link](https://github.com/Shweta2024/HEART-DISEASE-PREDICTION-) |
-| 4 | Iris Dataset Classification | Python and Machine Learning   | [link](https://github.com/Shweta2024/IRIS-DATASET-CLASSIFICATION) |
-| 5 | Marks Predictor |Python and Machine Learning |  [link](https://github.com/Shweta2024/The-Sparks-Foundation-Tasks/blob/main/Task-1_Prediction_using_Supervised_ML.ipynb) |
-| 6 | Fake News Detection | Python |  [link](https://github.com/Shweta2024/FAKE_NEWS_DETECTION) |
-
- <br>
- 
- <!----------------------------------------------------OPEN SOURCE CONTRIBUTIONS------------------------------------------------------------------------------->
- 
-//## 👩‍💻 OPEN SOURCE CONTRIBUTIONS
-
-//|S.No.|Open Source Program | Project |  Contribution Link|
-//|--------|----|----|----|
-//| 1 | Outreachy Internship - Mboalab | Typhoid Screener(working on it) | [Project link](https://github.com/nataliyah123/TYPHOID_SCREENER/tree/master) |
-//| 2 | Outreachy Contribution Phase 2022 | Mboalab_Outreachy-May-Aug-2022 | [2 Pull Requests](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/May-August-Contributions/Shweta%20Bhagat) |
-//| 3 | GirlScript Summer of Code 2022 | medi-Care | [Breast Cancer Prediction](https://github.com/mohit200008/medi-Care/tree/master/BreastCancerPrediction) |
-//| 4 | GirlScript Summer of Code 2022 | LearnCPP |  [9 Pull Requests](https://github.com/Lakhankumawat/LearnCPP/commits?author=Shweta2024) |
-//| 5 | HackClub Rait Summer Of Code 2022 | LeetCode-Grind | [Link](https://drive.google.com/file/d/11rPrsoCkaZ-lr5Jz7e0VOQlS8mB-io_1/view) |
-//| 6 | Hacktober Fest 2022 | LeetCode-Grind | |
-//| 7 | KWOC'2022 | JavaScript-Projects  | I was the Mentor, [Link](https://github.com/Shweta2024/JavaScript-Projects) |
-
-//<br>
 
 <!--------------------------------------------------------------CONTRIBUTION STATS ------------------------------------------------------------------------------>
-->
+
 
 ## 📈 CONTRIBUTION STATS 
 
