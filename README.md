@@ -18,29 +18,31 @@
 ## 👩‍💻 EXPERIENCES
 
 ### ➤ BACKEND INTERN | AIvolved Technologies 
-**April 2023 - Sept 2023** | **Bengaluru** | 
-- Developed Paytm payment Gateway, which can be used to different users with different schemas by making minimal changes in the configuration.
+**April 2023 - Sept 2023** | **Remote**  
+- Spearheaded the development and optimization of the payment page functionality within the Paytm Merchant platform.
+- Applied expertise in Django framework to architect and implement robust, scalable, and secure solutions for seamless
+  payment processing.
 - Tech Stack: Python, Django, Dajngo-Rest, SQL
 
-### ➤ OUTREACHY INTERN | Mboalab 
-**May 2022 - August 2022** | **Remote** | [**LINK**](https://drive.google.com/file/d/16sPNQoffTnmXtGpTpw6AOEdSgzKp8_ui/view) | [**GitHub Link**](https://github.com/nataliyah123/TYPHOID_SCREENER/tree/master)
-- Worked as an intern with Mboalab, on the project "Improve diagnostics of typhoid through Open Science: An Artificial Intelligence-based technique".
-- Created an appealing User Interface for the Android Application using Python, Kivy, and Kivymd.
+### ➤ Full Stack Intern | AmcSatCode.com 
+**May 2023 - June 2023** | **Remote** 
+- Led development of a comprehensive chatbot using React for frontend and Django Rest for backend
+- Integrated a Language Model to enhance the chatbot’s natural language processing and overall functionality.
+- Tech Stack: Python, Django, LLM, HTML, Git, GitHub, Web Scrapping
 
-### ➤ MICROSOFT ENGAGE 2022 | Mentee
-**May 2022** | **Remote** | [**LINK**](https://github.com/Shweta2024/cars-engage-2022)
-- Developed a web application that the Automotive Industry could use to harness data to make informed decisions.
-- Demonstrated the use of Data Analytics in identifying: Customer segments, Most popular car specification combinations (engine type, fuel, mileage, etc).
 
-### ➤ GIRLSCRIPT SUMMER OF CODE | Contributor
-**March 2022- May 2022** | **Remote** | [**Link**](https://drive.google.com/file/d/1L-vgukRAtF-hl2SRc9lUBDNZep5X5m0y/view)
-- My Rank:- 99/875 
-- Total Accepted Pull Requests: 10
-- Total Points: 220
+### ➤ Codechef Doubt Solver Intern | Codechef
+**May 2022 - Auguest 2022** | **Remote** 
+- Diagnosed and debugged user code to address doubts and identify bugs, ensuring a smooth user experience.
+- Delivered exceptional user support by responding promptly and effectively to inquiries, optimizing the user experience on CodeChef.
+- Played a crucial role in enhancing CodeChef’s user satisfaction through proactive issue resolution and personalized assistance.
+- Tech Stack: C, C++, Python, Data Structure and Algorithm
 
-1. Medi-care: In this project, I used the Wisconsin Breast Cancer Dataset and predicted if a person is having Breast Cancer.I did Exploratory Data Analysis followed by splitting the dataset into test and train and then implementing the two models: Logistic Regression and Decision Tree Classifier. 
-
-2. LearnCPP: In this project, I have added solutions to some of the famous problems of Dynamic Programming and Trees Data Structure.The aim of this project was to provide one step solution for C++ beginners and cp enthusiasts.
+  
+### ➤ HacktoberFest | Contributor
+**Oct 2022- Oct 2022** | **Remote** | [**Link**]([https://drive.google.com/file/d/1L-vgukRAtF-hl2SRc9lUBDNZep5X5m0y/view](https://github.com/GFGSC-RTU/GFG-SDE-Sheet-Solution-Kit/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed))
+- Total Accepted Pull Requests: 4
+- GFG-SDE-Sheet-Solution-Kit : In this project, I have added solutions to some of the famous problems of Dynamic Programming and Trees Data Structure.The aim of this project was to provide one step solution for C++ beginners and cp enthusiasts.
 
  <br>
  
