@@ -45,15 +45,7 @@ If you're interested in working together or just want to chat about technology, 
 
 <br>
 
-<!------------------------------------------------------------------------ACHIEVEMENTS----------------------------------------------------------------------------->
-## 🏆 ACHIEVEMENTS
-- **First Prize** in Smart India Internal Hackathon (2022).
-- **Runner-up** in Techthrive Hackathon, GGV (2023).
-- Ranked **under 5k** in **Hashcode 2022**.
-- **2nd Place** in a Coding Competition by **GirlScript Foundation** (2022).
-- Solved **300+ problems on LeetCode** and **100+ problems on GeeksForGeeks**.
 
-<br>
 
 <!-------------------------------------------------------------------------PROJECTS-------------------------------------------------------------------------------->
 
