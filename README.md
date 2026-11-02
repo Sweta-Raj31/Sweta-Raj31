@@ -39,10 +39,6 @@ If you're interested in working together or just want to chat about technology, 
 **May 2022 – August 2022** | **Remote**  
 - Assisted users in debugging and resolving coding issues, enhancing user satisfaction and experience.
 
-### ➤ HACKTOBERFEST CONTRIBUTOR
-**Oct 2022** | **Remote**  
-- Contributed solutions to the **GFG-SDE-Sheet-Solution-Kit** project, focusing on **Dynamic Programming** and **Trees** data structures.
-
 <br>
 
 ## PROJECTS
